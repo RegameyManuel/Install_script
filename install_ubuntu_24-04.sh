@@ -70,6 +70,6 @@ sudo apt update
 sudo apt install symfony-cli -y
 
 # Authentification GitHub CLI
-gh auth login
+#gh auth login
 
-echo "Configuration de Git, GitHub CLI et autres outils terminée avec succès."
+echo "Configuration terminée avec succès."
